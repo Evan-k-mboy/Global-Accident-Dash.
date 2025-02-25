@@ -15,6 +15,6 @@ Total Accidents & Casualties – Displays the overall number of accidents and ca
   - Supports researchers in studying accident patterns based on environmental conditions.
  
  ### Tools Used
-Power BI – Data visualization
-Excel / CSV Dataset – Data source
-GitHub – Project hosting
+- Power BI – Data visualization
+- Excel / CSV Dataset – Data source
+- GitHub – Project hosting
